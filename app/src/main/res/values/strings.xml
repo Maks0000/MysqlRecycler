@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MYSQL+Retrofit+Recycler</string>
+    <string name="panel">PANEL</string>
+    <string name="catalogProducts">PRODUCTS</string>
+    <string name="catalogClothes">CLOTHES</string>
+    <string name="catalogCategories">CATEGORIES</string>
+
+    <string name="priceFilter">5000</string>
+
+
+    <string name="addCategory">ADD CATEGORY</string>
+    <string name="addProduct">ADD ITEM</string>
+
+    <string name="editCategory">EDIT A CATEGORY</string>
+    <string name="editProduct">PRODUCT EDIT</string>
+
+
+    <string name="labelEnterCategory">Enter category name</string>
+    <string name="labelEnterNameProduct">Enter product name</string>
+    <string name="labelEnterNumberCategory">Enter category number</string>
+    <string name="labelEnterPriceProduct">Enter the price of the item</string>
+
+    <string name="deleteAllCategories">DELETE ALL CATEGORIES</string>
+    <string name="deleteAllProducts">REMOVE ALL PRODUCTS</string>
+
+    <string name="shoes">SHOES</string>
+    <string name="accessories">ACCESSORIES</string>
+
+
+
+</resources>
